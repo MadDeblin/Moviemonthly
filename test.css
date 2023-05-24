@@ -1,0 +1,112 @@
+<style>
+	body {
+		margin: 0;
+		padding: 0;
+		font-family: Arial, sans-serif;
+	}
+	
+	/* Navbar */
+	.nav {
+		background-color: #F95959;
+		height: 50px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 0 20px;
+		color: black;
+	}
+	
+	.nav a {
+		color: black;
+        display: inline-block;
+		text-decoration: none;
+		text-align: center;
+	}
+	.nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  margin: 0 460px;;
+}
+
+
+	/* Header */
+	.headerMM {
+        text-align: center;
+        font-size: 50px;
+		background-color: white;
+		height: 500px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	
+	/* Titel Div */
+
+    
+    .Titeldiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #383434;
+  height: 750px;
+  padding: 20px;
+  color: white;
+}
+
+.Titeldiv h1 {
+    top: 780px;
+  position: absolute;
+width: 302px;
+height: 47px;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF
+}
+
+.Titeldiv p {
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  margin-right: 60px;
+}
+
+.Titeldiv img {
+  position: relative;
+width: 618px;
+height: 500px;
+}
+
+/* Footer */
+.footer {
+  background-color: #F95959;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: black;
+  font-size: 20px;
+}
+
+.logo {
+margin-top: 200px;
+  font-size: 70px;
+  text-align: center;
+}
+
+.copyrighttext {
+    font-size: 12px;
+  margin-top: auto;
+  text-align: center;
+}
+
+
+
+
+
